@@ -18,7 +18,7 @@
 -->
 
 <div>
-    <img src="./assets/cat_hack.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/cat-hack.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <!--
@@ -28,7 +28,7 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vllms,github,git,mongodb,mysql,PLSQL,react,cpp,cs,html,css,bootstrap,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
@@ -66,7 +66,7 @@ Check out my latest post 👇
 
 ### Connect with me!
 <div>
-    <a href="https://www.linkedin.com/in/daria-stanilevici/">
+    <a href="https://www.linkedin.com/in/Vinay-15/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
     <a href="https://dev.to/daria-stanilevici">
