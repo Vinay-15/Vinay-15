@@ -79,15 +79,6 @@ I'm an **AI / Software Developer** and **MS in Data Science** candidate at the *
 
 ---
 
-### 📊 GitHub Stats
-
-<div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vinay-15&show_icons=true&hide_border=true&title_color=D9BED1&icon_color=D9BED1&text_color=4A3B47" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-15&layout=compact&hide_border=true&title_color=D9BED1&text_color=4A3B47" alt="top langs"/>
-</div>
-
----
-
 ### 🤝 Connect with Me
 
 <div>
