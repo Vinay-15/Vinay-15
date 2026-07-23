@@ -70,23 +70,6 @@ I'm an **AI / Software Developer** and **MS in Data Science** candidate at the *
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **[Hybrid RAG Retrieval Pipeline](https://github.com/Vinay-15)** | Python, LangChain, FAISS, BM25, Groq LLaMA 3.3 70B | Combines semantic (FAISS) + keyword (BM25) retrieval with Reciprocal Rank Fusion; citation-backed JSON with hallucination guardrails |
-| **[Nomad Intelligence](https://github.com/Vinay-15)** 🏆 | FastAPI, Gemini 2.0 Flash, React, Leaflet, Pydantic | **Won Red Bull Innovation Track @ HackCU12** — AI city-intelligence platform with real-time ingestion, LLM orchestration, and GPS-mapped recommendations in <30s |
-| **[AI Research Analyst Agent](https://github.com/Vinay-15)** | Python, LangChain, LangGraph, Groq LLM, Pydantic | Autonomous multi-tool ReAct agent with multi-turn memory; 6+ external tools for search, fact-checking & citation; 100% schema-validated JSON/PDF reports |
-
----
-
-### 🎓 Education
-
-- **University of Colorado Boulder** — MS in Data Science *(Aug 2025 – May 2027)* · GPA **3.97/4.0**
-- **Dayananda Sagar College of Engineering** — BE in Computer Engineering *(2019 – 2023)* · GPA **3.8/4.0**
-
----
-
 ### 🏅 Achievements & Certifications
 
 - 🏆 **Red Bull Innovation Track Winner** — HackCU12
@@ -114,7 +97,7 @@ I'm an **AI / Software Developer** and **MS in Data Science** candidate at the *
     <a href="https://github.com/Vinay-15">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="mailto:vinaychandra.konda@colorado.edu">
+    <a href="mailto:vinaykonda15@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </div>
