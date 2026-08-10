@@ -4,11 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=500&color=D9BED1&width=560&lines=Hi%2C+I'm+Vinay+Chandra+Konda;AI+Infrastructure+%2F+LLM+Serving+Engineer;vLLM+%7C+KV+Cache+%7C+PagedAttention;MS+Data+Science+%40+CU+Boulder" alt="Typing SVG"/>  
 </a>  
   
-<div>  
-    <img src="./assets/cat-hack.gif" alt="Terminal GIF"/>  
-</div>  
-  
 ---  
+  
+<table>  
+<tr>  
+<td width="60%" valign="top">  
   
 ### 👨‍💻 About Me  
   
@@ -18,6 +18,15 @@ I'm an **AI Infrastructure / LLM Serving** engineer and **MS in Data Science** c
 - 🛠️ Interested in **inference optimization, GPU memory management, and serving-stack reliability**  
 - 🏥 Ex-**Stanford Health Care** (AI Dev Intern) · 🏦 Ex-**Oracle** (2 yrs, core banking at scale)  
 - 🏆 **Red Bull Innovation Track Winner** — HackCU12  
+  
+</td>  
+<td width="40%" valign="top">  
+  
+<img src="./assets/cat-hack.gif" alt="Terminal GIF" width="100%"/>  
+  
+</td>  
+</tr>  
+</table>  
   
 ---  
   
@@ -29,15 +38,6 @@ I'm an **AI Infrastructure / LLM Serving** engineer and **MS in Data Science** c
 - **GPU & HPC** — NVIDIA A100 (MIG), CUDA version matching, Slurm scheduling, Apptainer/Docker containers  
   
 `vLLM` · `PagedAttention` · `CUDA` · `PyTorch` · `Slurm/HPC` · `Apptainer/Docker` · `Prometheus` · `FastAPI`  
-  
----  
-  
-### 🚀 Featured Project  
-  
-**[KV-Cache-Aware LLM Serving on Constrained GPUs](https://github.com/Vinay-15/KV_Cache_LLM_Serving)** — `vLLM` · `CUDA` · `A100 MIG` · `Slurm`  
-- Deployed an OpenAI-compatible **vLLM** API on a memory-limited **20 GB A100 MIG** slice (CU Boulder Alpine HPC), scheduled with **Slurm** and containerized with **Apptainer**  
-- Reproduced and quantified the **"KV-cache wall"**: doubling concurrency (64 → 128) cut throughput ~4,000 → ~1,700 tok/s, spiked p99 latency ~4 s → ~475 s, and triggered **2,075 KV preemptions** as the engine thrashed on evict/recompute  
-- Built a benchmarking harness — concurrent load generator, `/metrics` scraper, and concurrency sweep — as a base for admission control, prefix caching, and scheduler/preemption changes  
   
 ---  
   
@@ -59,6 +59,10 @@ I'm an **AI Infrastructure / LLM Serving** engineer and **MS in Data Science** c
 **🏦 Software Developer — Oracle (Financial Services)** *(Aug 2023 – Aug 2025 · 2 yrs)*  
 - Owned core banking modules serving **600+ institutions** (UBS, Access Bank); built data pipelines in Python/PL/SQL/Shell/REST  
 - Automated an ETL + validation framework (**10K+ daily txns**, defects −30%); ran containerized deployments (Docker, Podman) at **99.9% uptime**  
+  
+**📊 Data Engineer Intern — The Thick Shake Factory** *(May 2022 – Jul 2022 · 3 mo)*  
+- Built high-throughput **ETL/ELT streaming topologies** on **Apache Kafka** with parallel ingestion via **Airflow** DAGs, consolidating data from **40+ outlets** into columnar storage  
+- Optimized cluster utilization to cut pipeline bottlenecks, powering real-time dashboards over **100K+ daily transactions**  
   
 ---  
   
