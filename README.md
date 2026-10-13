@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Software Engineer** working on **AI infrastructure**, currently an **MS in Data Science** candidate at **CU Boulder** (GPA 3.99/4.0). Two years of production engineering at Oracle came first. Now I work on the systems layer underneath LLM applications: how models get served, how agents get evaluated, and how GPUs get shared.
+I'm a **Software Engineer** working on **AI infrastructure**, currently an **MS in Data Science** student at **CU Boulder** (GPA 3.99/4.0). Two years of production engineering at Oracle. Now I work on the systems layer underneath LLM applications: how models get served, how agents get evaluated, and how GPUs get shared.
 
 - 🔭 Building **multi-LoRA serving**, **agent evaluation harnesses**, and **KV-cache-aware inference** on vLLM
 - 🛠️ Interested in **inference performance, GPU resource sharing, and serving-stack reliability**
