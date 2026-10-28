@@ -14,8 +14,8 @@
 
 I'm a **Software Engineer** working on **AI infrastructure**, currently an **MS in Data Science** student at **CU Boulder** (GPA 3.99/4.0). Two years of production engineering at Oracle. Now I work on the systems layer underneath LLM applications: how models get served, how agents get evaluated, and how GPUs get shared.
 
-- 🔭 Building **multi-LoRA serving**, **agent evaluation harnesses**, and **KV-cache-aware inference** on vLLM
 - 🛠️ Interested in **inference performance, GPU resource sharing, and serving-stack reliability**
+- 🔭 Building **multi-LoRA serving**, **agent evaluation harnesses**, and **KV-cache-aware inference** on vLLM
 - 🏥 Ex-**Stanford Health Care** (AI Developer Intern) · 🏦 Ex-**Oracle** (2 yrs, core banking at scale)
 - 🏆 **Red Bull Innovation Track Winner**, HackCU12
 - 📬 Open to **AI infrastructure / ML platform** roles from **May 2027**
@@ -28,19 +28,6 @@ I'm a **Software Engineer** working on **AI infrastructure**, currently an **MS 
 </td>
 </tr>
 </table>
-
----
-
-### 🔨 What I'm Building
-
-**Multi-LoRA Serving Platform** *(in progress)*
-Serving many LoRA adapters from one shared base model on pooled GPUs, with an **adapter-aware request router** that sends each request to an instance already holding the adapter it needs, cutting adapter load overhead. vLLM for serving, Kafka for job queueing, Redis for adapter and job state, Spark for dataset preprocessing, Kubernetes for GPU fine-tuning jobs, GCS for adapter storage.
-
-**Agent Harness Evaluation** *(in progress)*
-Running an open-source coding agent on **Harbor** evaluation tasks against a self-hosted vLLM endpoint, measuring how harness design (full conversation history vs. summarized context) trades **serving cost against task success**.
-
-**KV-Cache-Aware LLM Serving** *(in progress)*
-Benchmarking vLLM under multi-turn agent traffic on a MIG-partitioned A100, instrumenting **TTFT, p99 latency, cache occupancy and queue depth** to find where throughput and tail latency break down.
 
 ---
 
